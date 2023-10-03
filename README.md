@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Eyal Bukchin and I'm a software developer from Israel. My favorite hills to die on are Ruby-related.
+
+I'm currently building [mirrord, which lets developers run local processes in the context of their Kubernetes environment](https://github.com/metalbear-co/mirrord). 
+
 
 <!--
 **eyalb181/eyalb181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
